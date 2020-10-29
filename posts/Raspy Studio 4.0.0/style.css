@@ -1,0 +1,37 @@
+body{
+    background-image: url("../../assets/images/posts/BgblogImage.png");
+    overflow: auto;
+}
+.post-content{
+    margin-left: 18%; 
+    width: 900px; 
+    height: 100%; 
+    position: absolute; 
+    background-color: rgba(15, 255, 0, 0.9);
+}
+
+.post-content h1{
+    margin-left: 30%; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+img{
+    margin-left: 21%; 
+    border-radius: 10px;
+}
+
+.text{
+    background-color: white; 
+    border-radius: 10px;
+}
+
+.backbtn{
+    text-decoration: none; 
+    border-radius: 10px;
+}
+
+.divback{
+    background-color: white; 
+    border-radius: 10px; 
+    width: 47px;
+}
